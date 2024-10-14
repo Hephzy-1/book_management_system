@@ -1,0 +1,16 @@
+[
+  {
+      "id": 1,
+      "title": "Book Title 1",
+      "author": "Author 1",
+      "year": 2021,
+      "isbn": "123-456-789"
+  },
+  {
+      "id": 2,
+      "title": "Book Title 2",
+      "author": "Author 2",
+      "year": 2020,
+      "isbn": "987-654-321"
+  }
+]

@@ -1,0 +1,31 @@
+{
+  "name": "book_management_system",
+  "version": "1.0.0",
+  "description": "A book management system",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon server.ts",
+    "start": "node server.ts",
+    "test": "jest"
+  },
+  "author": "Hephzibah Owoeye",
+  "license": "ISC",
+  "dependencies": {
+    "@types/cors": "^2.8.17",
+    "@types/dotenv": "^6.1.1",
+    "@types/express": "^5.0.0",
+    "@types/node": "^22.7.5",
+    "axois": "^0.0.1-security",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.0"
+  },
+  "devDependencies": {
+    "@types/jest": "^29.5.13",
+    "@types/supertest": "^6.0.2",
+    "jest": "^29.7.0",
+    "supertest": "^7.0.0",
+    "ts-jest": "^29.2.5",
+    "ts-node": "^10.9.2"
+  }
+}
